@@ -1,0 +1,27 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: beige;
+}
+
+h1 {
+    background-color: bisque;
+    text-align: center;
+    font-size: 32px;
+    width: 1000px;
+    margin: 8px auto;
+    padding: 16px;
+}
+
+li {
+    font-size: 20px;
+}
+
+.recipes {
+    background-color: rgb(189, 216, 231);
+    padding: 2px;
+    width: 1000px;
+    margin: 8px auto;
+}
